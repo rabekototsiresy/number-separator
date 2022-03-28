@@ -1,0 +1,29 @@
+{
+  "name": "number-handler",
+  "version": "1.0.0",
+  "description": "manipulation des nombres",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabekototsiresy/number-separator.git"
+  },
+  "keywords": [
+    "number",
+    "rahents",
+    "nini",
+    "ravonjy",
+    "raaina",
+    "mecen",
+    "rasta",
+    "rahery"
+  ],
+  "author": "aldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabekototsiresy/number-separator/issues"
+  },
+  "homepage": "https://github.com/rabekototsiresy/number-separator#readme"
+}
